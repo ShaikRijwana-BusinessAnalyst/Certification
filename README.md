@@ -58,7 +58,7 @@ The certifications collectively cover the full BA lifecycle — from **requireme
 |:---:|:---:|:---:|
 | ![Advanced Data Analyst](certificates/coursera-advanced-data-analyst.png) | ![Power BI](certificates/microsoft-power-bi.png) | ![Excel](certificates/microsoft-excel.png) |
 | **Advanced Data Analyst** — Coursera | **Power BI** — Microsoft | **Excel Data Analysis** — Microsoft |
-| ![Data Fundamentals](certificates/ibm-data-fundamentals.png) | ![JP Morgan](certificates/jpmorgan-quantitative-research.png) | |
+| ![Data Fundamentals](certificates/ibm-data-fundamentals.png) | !https://github.com/ShaikRijwana-BusinessAnalyst/Certification/blob/4bb45ba95a01abceb02331eaeda11ea4b2d583ea/image.png | |
 | **Data Fundamentals** — IBM SkillsBuild | **Quantitative Research Simulation** — J.P. Morgan | |
 
 ### Artificial Intelligence & Emerging Technology
