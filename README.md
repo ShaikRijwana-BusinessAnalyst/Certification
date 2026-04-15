@@ -49,32 +49,32 @@ The certifications collectively cover the full BA lifecycle — from **requireme
 | Fundamentals of Digital Marketing | Google | Customer journey mapping, campaign analytics, conversion optimization |
 
 ---
-
 ## 📸 Certification Images Gallery
 
-### 📊 Data & Analytics Certifications
+### 📊 Data & Analytics
 
-![IBM Data Fundamentals](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/ibm-data-fundamentals.png)
-![Microsoft Power BI](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/power-bi.png)
-![Microsoft Excel](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/excel-analysis.png)
-![Coursera Advanced Data Analyst](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/coursera-data-analyst.png)
+![Advanced Data Analyst](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/advanced-data-analyst.png)
+![Harnessing Power of Data with Power BI](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/power-bi.png)
+![Preparing Data for Analysis with Excel](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/excel-analysis.png)
+![Data Fundamentals](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/data-fundamentals.png)
+![Quantitative Research Job Simulation](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/jpmorgan-research.png)
 
-### 🤖 AI & Tech Certifications
+### 🤖 Artificial Intelligence & Emerging Technology
 
-![IBM AI Fundamentals](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/ibm-ai-fundamentals.png)
-![IBM AI Literacy](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/ibm-ai-literacy.png)
-![IBM Emerging Tech](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/ibm-emerging-tech.png)
+![Artificial Intelligence Fundamentals](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/ai-fundamentals.png)
+![AI Literacy](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/ai-literacy.png)
+![Explore Emerging Tech](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/emerging-tech.png)
 
-### 💼 Business Certifications
+### 💼 Business Strategy & Management
 
-![Infosys Kanban](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/infosys-kanban.png)
-![TCS iON Career Edge](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/tcs-career-edge.png)
-![Saylor Strategic Management](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/saylor-smp.png)
+![Strategic Management Professional (SMP)](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/smp.png)
+![Kanban in Practice: Agile Workflow](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/kanban.png)
+![TCS iON Career Edge — Young Professional](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/tcs-career-edge.png)
 
-### 💰 Finance & Marketing
+### 📈 Digital Marketing & Operations
 
-![J.P. Morgan Research](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/image.png)
-![Google Digital Marketing](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/google-digital-marketing.png)
+![Fundamentals of Digital Marketing](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/google-digital-marketing.png)
+
 ---
 
 ## Skills Matrix
