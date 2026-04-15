@@ -131,22 +131,25 @@ Open to roles in technology, BFSI, e-commerce, or consulting sectors across Bang
 
 ---
 
-## Credential Verification
+## 🆔 Credential IDs - Ready for Verification
 
-| Certification | Issuer | Credential ID |
-|---|---|---|
-| Advanced Data Analyst | Coursera | ZEU72RC5PXYQ |
-| Harnessing Power of Data with Power BI | Microsoft | A1MGVPD0KS7M |
-| Preparing Data for Analysis with Excel | Microsoft | PPOIQKNU0MGP |
-| Artificial Intelligence Fundamentals | IBM SkillsBuild | d8a1087f-abc0-47c9-bb0e-d7c7cf93f10e |
-| AI Literacy | IBM SkillsBuild | a07580e9-b9a2-46cc-b122-e7a991be00e3 |
-| Data Fundamentals | IBM SkillsBuild | bc3ebc25-4ce7-4107-8d51-d2e9ad082270 |
-| Explore Emerging Tech | IBM SkillsBuild | 5f4ca5ea-0bf0-42ff-b314-aa287489082 |
-| Quantitative Research Job Simulation | J.P. Morgan (Forage) | CbioNiAmm5x4NKET7 |
-| Strategic Management Professional (SMP) | Saylor University | 1378330584SR |
-| Kanban in Practice: Agile Workflow | Infosys Springboard | https://validate.onwingspan.com/ |
-| TCS iON Career Edge — Young Professional | TCS iON | 272697-30421475-1016 |
+| Certification | **Credential ID** | **Platform** |
+|---------------|-------------------|--------------|
+| Advanced Data Analyst | `ZEU72RC5PXYQ` | **Coursera** |
+| Harnessing Power of Data with Power BI | `A1MGVPD0KS7M` | **Microsoft** |
+| Preparing Data for Analysis with Excel | `PPOIQKNU0MGP` | **Microsoft** |
+| Artificial Intelligence Fundamentals | `d8a1087f-abc0-47c9-bb0e-d7c7cf93f10e` | **IBM SkillsBuild** |
+| AI Literacy | `a07580e9-b9a2-46cc-b122-e7a991be00e3` | **IBM SkillsBuild** |
+| Data Fundamentals | `bc3ebc25-4ce7-4107-8d51-d2e9ad082270` | **IBM SkillsBuild** |
+| Explore Emerging Tech | `5f4ca5ea-0bf0-42ff-b314-aa287489082` | **IBM SkillsBuild** |
+| Quantitative Research Job Simulation | `CbioNiAmm5x4NKET7` | **J.P. Morgan (Forage)** |
+| Strategic Management Professional (SMP) | `1378330584SR` | **Saylor University** |
+| Kanban in Practice: Agile Workflow | `[Validate at onwingspan.com]` | **Infosys Springboard** |
+| TCS iON Career Edge — Young Professional | `272697-30421475-1016` | **TCS iON** |
 
+```markdown
+> **🔐 All credentials above are verifiable** - Copy Credential ID and validate on respective platform
+```
 
 
  Open to BA opportunities &nbsp;·&nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/shaik-rijwana-6a8861290)*
