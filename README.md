@@ -131,48 +131,22 @@ Open to roles in technology, BFSI, e-commerce, or consulting sectors across Bang
 
 ---
 
-## Repository Structure
-
-```
-/
-├── README.md                                   ← Portfolio overview (this file)
-├── certificates/                               ← Certificate image files
-│   ├── coursera-advanced-data-analyst.png
-│   ├── microsoft-power-bi.png
-│   ├── microsoft-excel.png
-│   ├── ibm-ai-fundamentals.png
-│   ├── ibm-ai-literacy.png
-│   ├── ibm-data-fundamentals.png
-│   ├── ibm-emerging-tech.png
-│   ├── jpmorgan-quantitative-research.png
-│   ├── saylor-strategic-management.png
-│   ├── infosys-kanban.png
-│   ├── tcs-career-edge.png
-│   └── google-digital-marketing.png
-└── verification-links.md                       ← Direct credential verification URLs
-```
-
----
-
 ## Credential Verification
 
-| Certification | Issuer | Verification Link |
+| Certification | Issuer | Credential ID |
 |---|---|---|
-| Advanced Data Analyst | Coursera | [Verify ↗](https://www.coursera.org/verify/ADD-YOUR-CREDENTIAL-ID) |
-| Harnessing Power of Data with Power BI | Microsoft | [Verify ↗](https://learn.microsoft.com/en-us/credentials/) |
-| Preparing Data for Analysis with Excel | Microsoft | [Verify ↗](https://learn.microsoft.com/en-us/credentials/) |
-| Artificial Intelligence Fundamentals | IBM SkillsBuild | [Verify ↗](https://www.ibm.com/skills/build) |
-| AI Literacy | IBM SkillsBuild | [Verify ↗](https://www.ibm.com/skills/build) |
-| Data Fundamentals | IBM SkillsBuild | [Verify ↗](https://www.ibm.com/skills/build) |
-| Explore Emerging Tech | IBM SkillsBuild | [Verify ↗](https://www.ibm.com/skills/build) |
-| Quantitative Research Job Simulation | J.P. Morgan (Forage) | [Verify ↗](https://www.theforage.com/achievements) |
-| Strategic Management Professional (SMP) | Saylor University | [Verify ↗](https://learn.saylor.org) |
-| Kanban in Practice: Agile Workflow | Infosys Springboard | [Verify ↗](https://infosysspringboard.com) |
-| TCS iON Career Edge — Young Professional | TCS iON | [Verify ↗](https://www.tcsion.com) |
-| Fundamentals of Digital Marketing | Google | [Verify ↗](https://grow.google/certificates/) |
+| Advanced Data Analyst | Coursera | ZEU72RC5PXYQ |
+| Harnessing Power of Data with Power BI | Microsoft | A1MGVPD0KS7M |
+| Preparing Data for Analysis with Excel | Microsoft | PPOIQKNU0MGP |
+| Artificial Intelligence Fundamentals | IBM SkillsBuild | d8a1087f-abc0-47c9-bb0e-d7c7cf93f10e |
+| AI Literacy | IBM SkillsBuild | a07580e9-b9a2-46cc-b122-e7a991be00e3 |
+| Data Fundamentals | IBM SkillsBuild | bc3ebc25-4ce7-4107-8d51-d2e9ad082270 |
+| Explore Emerging Tech | IBM SkillsBuild | 5f4ca5ea-0bf0-42ff-b314-aa287489082 |
+| Quantitative Research Job Simulation | J.P. Morgan (Forage) | CbioNiAmm5x4NKET7 |
+| Strategic Management Professional (SMP) | Saylor University | 1378330584SR |
+| Kanban in Practice: Agile Workflow | Infosys Springboard | https://validate.onwingspan.com/ |
+| TCS iON Career Edge — Young Professional | TCS iON | 272697-30421475-1016 |
 
-> 💡 **To update verification links:** Replace `ADD-YOUR-CREDENTIAL-ID` in the Coursera link with your actual credential ID. For Microsoft credentials, enter your credential ID at the portal after clicking the link. Credential IDs are found on each certificate PDF or in your account dashboard on the respective platform.
 
----
 
-*Last updated: April 2026 &nbsp;·&nbsp; Open to BA opportunities &nbsp;·&nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/shaik-rijwana-6a8861290)*
+ Open to BA opportunities &nbsp;·&nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/shaik-rijwana-6a8861290)*
