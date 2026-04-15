@@ -50,40 +50,31 @@ The certifications collectively cover the full BA lifecycle — from **requireme
 
 ---
 
-## Certificate Gallery
+## 📸 Certification Images Gallery
 
-### Data & Analytics
+### 📊 Data & Analytics Certifications
 
-| | | |
-|:---:|:---:|:---:|
-| ![Advanced Data Analyst](certificates/coursera-advanced-data-analyst.png) | ![Power BI](certificates/microsoft-power-bi.png) | ![Excel](certificates/microsoft-excel.png) |
-| **Advanced Data Analyst** — Coursera | **Power BI** — Microsoft | **Excel Data Analysis** — Microsoft |
-| ![Data Fundamentals](certificates/ibm-data-fundamentals.png) | https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/blob/4bb45ba95a01abceb02331eaeda11ea4b2d583ea/image.png | |
-| **Data Fundamentals** — IBM SkillsBuild | **Quantitative Research Simulation** — J.P. Morgan | |
+![IBM Data Fundamentals](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/ibm-data-fundamentals.png)
+![Microsoft Power BI](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/power-bi.png)
+![Microsoft Excel](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/excel-analysis.png)
+![Coursera Advanced Data Analyst](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/coursera-data-analyst.png)
 
-### Artificial Intelligence & Emerging Technology
+### 🤖 AI & Tech Certifications
 
-| | | |
-|:---:|:---:|:---:|
-| ![AI Fundamentals](certificates/ibm-ai-fundamentals.png) | ![AI Literacy](certificates/ibm-ai-literacy.png) | ![Emerging Tech](certificates/ibm-emerging-tech.png) |
-| **AI Fundamentals** — IBM SkillsBuild | **AI Literacy** — IBM SkillsBuild | **Explore Emerging Tech** — IBM SkillsBuild |
+![IBM AI Fundamentals](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/ibm-ai-fundamentals.png)
+![IBM AI Literacy](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/ibm-ai-literacy.png)
+![IBM Emerging Tech](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/ibm-emerging-tech.png)
 
-### Business Strategy & Management
+### 💼 Business Certifications
 
-| | | |
-|:---:|:---:|:---:|
-| ![Strategic Management](certificates/saylor-strategic-management.png) | ![Kanban](certificates/infosys-kanban.png) | ![TCS](certificates/tcs-career-edge.png) |
-| **Strategic Management Professional** — Saylor | **Kanban in Practice** — Infosys | **Career Edge** — TCS iON |
+![Infosys Kanban](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/infosys-kanban.png)
+![TCS iON Career Edge](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/tcs-career-edge.png)
+![Saylor Strategic Management](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/saylor-smp.png)
 
-### Digital Marketing & Operations
+### 💰 Finance & Marketing
 
-| |
-|:---:|
-| ![Digital Marketing](certificates/google-digital-marketing.png) |
-| **Fundamentals of Digital Marketing** — Google |
-
-> 📁 All certificate images are stored in the [`/certificates`](./certificates/) folder of this repository.
-
+![J.P. Morgan Research](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/jpmorgan-research.png)
+![Google Digital Marketing](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/google-digital-marketing.png)
 ---
 
 ## Skills Matrix
