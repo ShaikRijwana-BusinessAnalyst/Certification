@@ -51,29 +51,34 @@ The certifications collectively cover the full BA lifecycle — from **requireme
 ---
 ## 📸 Certification Images Gallery
 
-### 📊 Data & Analytics
+## 📸 Data & Analytics Certifications
 
-![Advanced Data Analyst](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/advanced-data-analyst.png)
-![Harnessing Power of Data with Power BI](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/power-bi.png)
-![Preparing Data for Analysis with Excel](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/excel-analysis.png)
-![Data Fundamentals](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/data-fundamentals.png)
-![Quantitative Research Job Simulation](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/jpmorgan-research.png)
+![Advanced Data Analysts Certification](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/Advanced%20Data%20Analysts%20Certification.jpeg)
 
-### 🤖 Artificial Intelligence & Emerging Technology
+![Harnessing the power of data with power BI](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/Harnessing%20the%20power%20of%20data%20with%20power%20BI.jpeg)
 
-![Artificial Intelligence Fundamentals](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/ai-fundamentals.png)
-![AI Literacy](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/ai-literacy.png)
-![Explore Emerging Tech](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/emerging-tech.png)
+![preparing data for analysis with microsoft excel](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/preparing%20data%20for%20analysis%20with%20microsoft%20excel.jpeg)
 
-### 💼 Business Strategy & Management
+![Data Fundamentals Certification](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/Data%20Fundamentals%20Certification.png)
 
-![Strategic Management Professional (SMP)](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/smp.png)
-![Kanban in Practice: Agile Workflow](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/kanban.png)
-![TCS iON Career Edge — Young Professional](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/tcs-career-edge.png)
+![Quantitative Research Job Simulation](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/Quantitative%20Research%20Job%20Simulation.jpeg)
 
-### 📈 Digital Marketing & Operations
+## 🤖 AI & Emerging Technology Certifications
 
-![Fundamentals of Digital Marketing](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/google-digital-marketing.png)
+![Artificial intelligence fundamentals certification](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/Artificial%20intelligence%20fundamentals%20certification.png)
+
+![AI literacy Certification](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/AI%20literacy%20Certification.png)
+
+![exploring Emerging tech certification](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/exploring%20Emerging%20tech%20certification.png)
+
+## 💼 Business Strategy & Management Certifications
+
+![strategic management certification image](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/strategic%20management%20certification%20image.jpeg)
+
+![Kanban In Practice Certificate by Infosys Springboard](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/Kanban%20In%20Practice%20Certificate%20by%20Infosys%20Springboard.jpg)
+
+![Tcs iON Career Edge certification image](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/Tcs%20iON%20Career%20Edge%20certification%20image.jpeg)
+
 
 ---
 
