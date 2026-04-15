@@ -73,7 +73,7 @@ The certifications collectively cover the full BA lifecycle — from **requireme
 
 ### 💰 Finance & Marketing
 
-![J.P. Morgan Research](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/jpmorgan-research.png)
+![J.P. Morgan Research](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/image.png)
 ![Google Digital Marketing](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/certifications/main/google-digital-marketing.png)
 ---
 
