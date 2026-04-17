@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository documents 12 professional certifications spanning data analytics, artificial intelligence, business strategy, and digital operations. Each credential reflects a deliberate investment in the skills that define effective Business Analysts in today's data-intensive, AI-augmented enterprise environment.
+This repository documents 15 professional certifications spanning data analytics, artificial intelligence, business strategy, and digital operations. Each credential reflects a deliberate investment in the skills that define effective Business Analysts in today's data-intensive, AI-augmented enterprise environment.
 
 The certifications collectively cover the full BA lifecycle — from **requirements gathering and stakeholder communication** to **data modeling, visualization, and strategic decision support**.
 
@@ -21,6 +21,8 @@ The certifications collectively cover the full BA lifecycle — from **requireme
 | Certification | Issuer | Core Skills Acquired |
 |---|---|---|
 | Advanced Data Analyst | Coursera | Statistical analysis, Python/SQL, dashboard design, business reporting |
+| Data Analysis and Visualization with Power BI | Coursera | Interactive reports, data transformation, DAX, visual storytelling |
+| Data Modeling in Power BI | Coursera | Star schema, relationships, calculated columns, model optimization |
 | Harnessing Power of Data with Power BI | Microsoft | KPI dashboards, DAX, data modeling, executive reporting |
 | Preparing Data for Analysis with Excel | Microsoft | Data cleaning, pivot tables, VLOOKUP, analytical workflows |
 | Data Fundamentals | IBM SkillsBuild | Data types, pipelines, governance, relational databases |
@@ -38,6 +40,7 @@ The certifications collectively cover the full BA lifecycle — from **requireme
 
 | Certification | Issuer | Core Skills Acquired |
 |---|---|---|
+| Scrum Master | SCRUMstudy | Scrum framework, sprint planning, team facilitation, agile delivery |
 | Strategic Management Professional (SMP) | Saylor University | Competitive analysis, SWOT/PESTLE, strategic planning frameworks |
 | Kanban in Practice: Agile Workflow | Infosys Springboard | Agile delivery, WIP limits, sprint planning, backlog management |
 | TCS iON Career Edge — Young Professional | TCS iON | Business communication, workplace professionalism, problem-solving |
@@ -49,11 +52,16 @@ The certifications collectively cover the full BA lifecycle — from **requireme
 | Fundamentals of Digital Marketing | Google | Customer journey mapping, campaign analytics, conversion optimization |
 
 ---
+
 ## 📸 Certification Images Gallery
 
 ## 📸 Data & Analytics Certifications
 
 ![Advanced Data Analysts Certification](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/Advanced%20Data%20Analysts%20Certification.jpeg)
+
+![Data Analysis Certification](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/a82dd71caa6380c576f2142962a2e93922a4c2c0/Data%20Analysis%20and%20Visuvalization%20Using%20Power%20BI%20Certification.jpeg)
+
+![Data Modeling Certification](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/a82dd71caa6380c576f2142962a2e93922a4c2c0/data%20modeling%20with%20power%20BI%20certification.jpeg)
 
 ![Harnessing the power of data with power BI](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/Harnessing%20the%20power%20of%20data%20with%20power%20BI.jpeg)
 
@@ -73,28 +81,27 @@ The certifications collectively cover the full BA lifecycle — from **requireme
 
 ## 💼 Business Strategy & Management Certifications
 
+![Scrum Master Certification](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/Scrum%20Master%20Certification.jpeg)
+
 ![strategic management certification image](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/strategic%20management%20certification%20image.jpeg)
 
 ![Kanban In Practice Certificate by Infosys Springboard](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/Kanban%20In%20Practice%20Certificate%20by%20Infosys%20Springboard.jpg)
 
 ![Tcs iON Career Edge certification image](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Certification/main/Tcs%20iON%20Career%20Edge%20certification%20image.jpeg)
 
-
 ---
 
 ## Skills Matrix
-
-```
 Data Analysis         ████████████████░░░░  Advanced
 Business Intelligence ███████████████░░░░░  Advanced
+Power BI / Modeling   ███████████████░░░░░  Advanced
 AI / ML Literacy      ████████████░░░░░░░░  Proficient
-Agile / Kanban        ████████████░░░░░░░░  Proficient
+Agile / Scrum / Kanban████████████░░░░░░░░  Proficient
 Strategic Planning    ███████████░░░░░░░░░  Proficient
 Digital Marketing     █████████░░░░░░░░░░░  Working Knowledge
-```
 
 **Tools:** Microsoft Power BI · Excel · Python · SQL · Kanban boards · IBM Watson  
-**Frameworks:** Agile · Kanban · SWOT · PESTLE · Business Case Development  
+**Frameworks:** Agile · Scrum · Kanban · SWOT · PESTLE · Business Case Development  
 **Domains:** BFSI · Technology · E-Commerce · Operations
 
 ---
@@ -102,13 +109,13 @@ Digital Marketing     █████████░░░░░░░░░░�
 ## Business Relevance: How These Certifications Connect to BA Work
 
 ### Translating Data into Business Decisions
-The combination of **Advanced Data Analyst (Coursera)**, **Power BI (Microsoft)**, and **Data Fundamentals (IBM)** provides end-to-end capability: sourcing and cleaning data, building analytical models, and communicating findings through executive-level dashboards. In a BA role, this directly supports requirements analysis, KPI tracking, and evidence-based recommendations to stakeholders.
+The combination of **Advanced Data Analyst (Coursera)**, **Data Analysis and Visualization with Power BI (Coursera)**, **Data Modeling in Power BI (Coursera)**, **Power BI (Microsoft)**, and **Data Fundamentals (IBM)** provides end-to-end capability: sourcing and cleaning data, building robust data models with proper schema design, and communicating findings through executive-level dashboards. In a BA role, this directly supports requirements analysis, KPI tracking, and evidence-based recommendations to stakeholders.
 
 ### Working Alongside AI Systems
 With three IBM AI certifications, I can critically evaluate where AI tools add value in business processes — not just use them blindly. This is increasingly a core BA competency: understanding automation boundaries, flagging model limitations, and translating AI outputs into business language for non-technical stakeholders.
 
 ### Delivering Inside Agile Teams
-The **Kanban in Practice** certification (Infosys Springboard) demonstrates familiarity with iterative delivery environments. BAs in modern product and technology teams are expected to operate within sprint cycles, manage user story backlogs, and communicate across product owners, developers, and business leads — all skills embedded in this credential.
+The **Scrum Master (SCRUMstudy)** and **Kanban in Practice (Infosys Springboard)** certifications demonstrate familiarity with iterative delivery environments. BAs in modern product and technology teams are expected to operate within sprint cycles, facilitate ceremonies, manage user story backlogs, and communicate across product owners, developers, and business leads — all skills embedded in these credentials.
 
 ### Strategic and Commercial Awareness
 The **Strategic Management Professional** certification (Saylor University) grounds analytical work in broader business context. BAs who understand competitive dynamics, strategic trade-offs, and organizational priorities are better positioned to frame requirements correctly, scope projects realistically, and align deliverables with business objectives.
@@ -136,6 +143,8 @@ Open to roles in technology, BFSI, e-commerce, or consulting sectors across Bang
 | Certification | **Credential ID** | **Platform** |
 |---------------|-------------------|--------------|
 | Advanced Data Analyst | `ZEU72RC5PXYQ` | **Coursera** |
+| Data Analysis and Visualization with Power BI | `GWY3WJF3XESE` | **Coursera** |
+| Data Modeling in Power BI | `5DC2R64BJSV1` | **Coursera** |
 | Harnessing Power of Data with Power BI | `A1MGVPD0KS7M` | **Microsoft** |
 | Preparing Data for Analysis with Excel | `PPOIQKNU0MGP` | **Microsoft** |
 | Artificial Intelligence Fundamentals | `d8a1087f-abc0-47c9-bb0e-d7c7cf93f10e` | **IBM SkillsBuild** |
@@ -143,13 +152,12 @@ Open to roles in technology, BFSI, e-commerce, or consulting sectors across Bang
 | Data Fundamentals | `bc3ebc25-4ce7-4107-8d51-d2e9ad082270` | **IBM SkillsBuild** |
 | Explore Emerging Tech | `5f4ca5ea-0bf0-42ff-b314-aa287489082` | **IBM SkillsBuild** |
 | Quantitative Research Job Simulation | `CbioNiAmm5x4NKET7` | **J.P. Morgan (Forage)** |
+| Scrum Master | `[Add Credential ID]` | **SCRUMstudy** |
 | Strategic Management Professional (SMP) | `1378330584SR` | **Saylor University** |
 | Kanban in Practice: Agile Workflow | `[Validate at onwingspan.com]` | **Infosys Springboard** |
 | TCS iON Career Edge — Young Professional | `272697-30421475-1016` | **TCS iON** |
 
-```markdown
 > **🔐 All credentials above are verifiable** - Copy Credential ID and validate on respective platform
-```
 
 
- Open to BA opportunities &nbsp;·&nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/shaik-rijwana-6a8861290)*
+*Open to BA opportunities &nbsp;·&nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/shaik-rijwana-6a8861290)*
