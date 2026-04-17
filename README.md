@@ -92,13 +92,13 @@ The certifications collectively cover the full BA lifecycle — from **requireme
 ---
 
 ## Skills Matrix
-Data Analysis         ████████████████░░░░  Advanced
-Business Intelligence ███████████████░░░░░  Advanced
-Power BI / Modeling   ███████████████░░░░░  Advanced
-AI / ML Literacy      ████████████░░░░░░░░  Proficient
-Agile / Scrum / Kanban████████████░░░░░░░░  Proficient
-Strategic Planning    ███████████░░░░░░░░░  Proficient
-Digital Marketing     █████████░░░░░░░░░░░  Working Knowledge
+|Data Analysis  |         ████████████████░░░░  |  Advanced  |
+|Business Intelligence  | ███████████████░░░░░  |  Advanced  |
+|Power BI / Modeling  |   ███████████████░░░░░  |  Advanced  |
+|AI / ML Literacy  |      ████████████░░░░░░░░  |  Proficient  |
+|Agile / Scrum / Kanban  |████████████░░░░░░░░  |  Proficient  |
+|Strategic Planning  |    ███████████░░░░░░░░░  |  Proficient  |
+|Digital Marketing  |     █████████░░░░░░░░░░░  |  Working Knowledge  |
 
 **Tools:** Microsoft Power BI · Excel · Python · SQL · Kanban boards · IBM Watson  
 **Frameworks:** Agile · Scrum · Kanban · SWOT · PESTLE · Business Case Development  
